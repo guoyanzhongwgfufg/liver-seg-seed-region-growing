@@ -5,6 +5,11 @@ This project implements a **semi-automatic liver segmentation** algorithm on DIC
 
 ---
 
+<p align="center">
+  <img src="document\GT.jpg" alt="GT" width="45%"/>
+  <img src="document/Predict.jpg" alt="Predict" width="45%"/>
+</p>
+
 ## 📌 Key Features
 
 - Semi-automatic: requires a physician-selected seed point
